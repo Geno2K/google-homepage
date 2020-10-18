@@ -52,7 +52,6 @@
 
 .foot {
     background-color: rgb(242 242 242);
-    overflow: hidden;
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -108,3 +107,4 @@ a:hover {
 .bottom {
     font-size: 14px;
 }
+
